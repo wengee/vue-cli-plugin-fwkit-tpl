@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-fwkit-tpl",
+  "version": "1.0.0",
+  "description": "Vue template for fwkit",
+  "main": "index.js",
+  "repository": "https://gitee.com/fwkit/vue-cli-plugin-fwkit-tpl",
+  "author": "Fung Wing Kit",
+  "license": "MIT",
+  "keywords": [
+    "Vue",
+    "Vue CLI",
+    "plugin"
+  ],
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.1",
+    "@vue/cli-plugin-eslint": "^4.1.1",
+    "@vue/cli-service": "^4.1.1",
+    "@vue/eslint-config-airbnb": "^5.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.0.1"
+  }
+}
